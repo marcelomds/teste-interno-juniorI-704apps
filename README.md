@@ -1,4 +1,4 @@
-# Projeto - Cadastrar, Listar, Excluir e Mostrar produtos de uma loja fictícia
+# Projeto - Cadastrar, Listar, Editar e Excluir produtos de uma loja fictícia
 Este projeto consiste em construir uma aplicação web que exiba informações de produtos de uma loja fictícia. A aplicação deve consumir dados de uma API JSON fornecida e apresentar as seguintes funcionalidades:
 
 * Exibir uma lista de produtos na página inicial, mostrando a imagem, nome e preço de cada produto.
