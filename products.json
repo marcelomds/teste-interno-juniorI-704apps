@@ -3,35 +3,35 @@
     {
       "id": 1,
       "name": "Apple iPhone 13 Pro Max",
-      "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-13-Pro-Max_09142021.jpg.large.jpg",
+      "image": "https://m.media-amazon.com/images/I/41vm9e97XZL._AC_SX679_.jpg",
       "price": 1099.00,
       "description": "O iPhone 13 Pro Max tem uma tela Super Retina XDR de 6,7 polegadas, processador A15 Bionic, sistema de câmera Pro de 12 MP, bateria com duração de até 28 horas e é resistente à água."
     },
     {
       "id": 2,
       "name": "Samsung Galaxy S21 Ultra",
-      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/galaxy-s21/gallery/in-galaxy-s21-ultra-5g-g988-sm-g998bzkginu-frontmysticblack-285720054?$320_320_PNG$",
+      "image": "https://a-static.mlcdn.com.br/800x560/smartphone-samsung-galaxy-s21-ultra-256gb-preto-5g-12gb-ram-tela-68-cam-quadrupla-selfie-40mp/magazineluiza/155620700/f14bf8a97e79fe00020ef08e5e0daf6d.jpg",
       "price": 1199.99,
       "description": "O Samsung Galaxy S21 Ultra tem uma tela Dynamic AMOLED de 6,8 polegadas, processador Exynos 2100, sistema de câmera quad de 108 MP, bateria com duração de até 25 horas e suporta S Pen."
     },
     {
       "id": 3,
       "name": "Sony PlayStation 5",
-      "image": "https://www.sony.com/image/7beaaf59f1238617d8e17d4c4e4b284d?fmt=pjpeg&wid=225&hei=225&bgcolor=F1F5F9&bgc=F1F5F9",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$",
       "price": 499.99,
       "description": "O PlayStation 5 é o mais recente console de jogos da Sony, com um processador AMD Zen 2, gráficos AMD RDNA 2, armazenamento SSD ultrarrápido e suporte para jogos em 4K a 120 fps."
     },
     {
       "id": 4,
       "name": "Microsoft Xbox Series X",
-      "image": "https://compass-ssl.xbox.com/assets/25/2c/252c00bf-9ed1-45aa-9f5d-1d243f2825be.png?n=XBX_A-Console-Front_Black_Portrait.png",
+      "image": "https://imgs.casasbahia.com.br/55014095/1xg.jpg",
       "price": 499.99,
       "description": "O Xbox Series X é o mais recente console de jogos da Microsoft, com um processador AMD Zen 2, gráficos AMD RDNA 2, armazenamento SSD ultrarrápido e suporte para jogos em 4K a 120 fps."
     },
     {
       "id": 5,
       "name": "Amazon Echo Dot (4th Gen)",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ZU%2BVK9%2BQL._AC_SL1000_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71JB6hM6Z6L._AC_SL1000_.jpg",
       "price": 49.99,
       "description": "O Amazon Echo Dot (4ª geração) é um alto-falante inteligente com controle de voz Alexa. Ele tem um design esférico, som de alta qualidade e suporte para música, chamadas, alarmes e muito mais."
     }
