@@ -29,5 +29,8 @@ Este projeto consiste em construir uma aplicação web que exiba informações d
 
 ## Instruções para execução do projeto
 * Clone o repositório do projeto para sua máquina local.
-* A API dessa aplicação será o arquivo products.json dentro da raíz do repositório
+* A API dessa aplicação será de acordo com o link de cada participante:
+ **Valney: https://6419c39ef398d7d95d48d031.mockapi.io/valney/products
+ **Lucas: https://6419c1fdf398d7d95d48a426.mockapi.io/products/lucas/products
+ **Aurênio: https://6419c436f398d7d95d48e28e.mockapi.io/aurenio/products
 * Desenvolva seu teste e ao finalizar,salvar em seu repositório
