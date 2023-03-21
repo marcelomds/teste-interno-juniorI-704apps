@@ -33,4 +33,5 @@ Este projeto consiste em construir uma aplicação web que exiba informações d
  * Valney: https://6419c39ef398d7d95d48d031.mockapi.io/valney/products
  * Lucas: https://6419c1fdf398d7d95d48a426.mockapi.io/products/lucas/products
  * Aurênio: https://6419c436f398d7d95d48e28e.mockapi.io/aurenio/products
+ * Paulo: https://641a0013c152063412d12e37.mockapi.io/paulo/products
 * Desenvolva seu teste e ao finalizar,salvar em seu repositório
